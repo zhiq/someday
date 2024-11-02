@@ -4,7 +4,7 @@
 **Free and open-source cal.com / calendly alternative built on [Google-App-Script](https://developers.google.com/apps-script) for Gmail users.**
 
 <img src="./screencap1.jpg" width="350" />
-<img src="./screencap2.jpg" width="350" />
+
 
 ## What is Someday?
 
@@ -107,6 +107,11 @@ __you may need to sign out of all accounts, and only into your target account__
 - `deployments.sh` - list all deployments web-urls
 
 - `clasp open` - open the script editor
+
+## Screen Captures
+
+<img src="./screencap1.jpg" width="350" />
+<img src="./screencap2.jpg" width="350" />
 
 ## Contributing
 
