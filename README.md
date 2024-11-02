@@ -5,6 +5,9 @@
 
 <img src="./screencap1.jpg" width="350" />
 
+## Demo
+
+[https://someday-demo.vercel.app/](https://someday-demo.vercel.app/)
 
 ## What is Someday?
 
