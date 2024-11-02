@@ -1,15 +1,6 @@
 import { useCallback, useEffect, useState } from "react";
 
-export const dummyData = [
-  "2024-10-21T13:00:00Z",
-  "2024-10-21T14:00:00Z",
-  "2024-10-21T15:00:00Z",
-  "2024-10-21T16:00:00Z",
-  "2024-10-21T17:00:00Z",
-  "2024-10-21T18:00:00Z",
-  "2024-10-21T19:00:00Z",
-  "2024-10-21T20:00:00Z",
-];
+import { dummyData } from "@/hooks/dummydata";
 // const slotsByDayKey = (date: Date) => format(date, "yyyy-MM-dd");
 export function useGoogleTimeslots() {
   const [availableGoogleSlots, setAvailableGoogleSlots] = useState<Date[]>([]);

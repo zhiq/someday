@@ -37,6 +37,12 @@ const WORKHOURS = {
 const TIMESLOT_DURATION = 30;
 ```
 
+### Develop
+
+- `cd ./frontend`
+- `npm install`
+- `npm run dev`
+- update `dummyData` by running `./dummydata.sh`
 
 ### Install 
 
