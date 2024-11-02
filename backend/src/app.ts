@@ -10,7 +10,9 @@ const TIMESLOT_DURATION = 30;
 const TSDURMS = TIMESLOT_DURATION * 60000;
 
 function doGet(): GoogleAppsScript.HTML.HtmlOutput {
-  return HtmlService.createHtmlOutputFromFile("dist/index");
+  const output = HtmlService.createHtmlOutputFromFile("dist/index");
+  output.addMetaTag("viewport", "width=device-width, initial-scale=1");
+  return output;
 }
 
 function fetchAvailability(): {
