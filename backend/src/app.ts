@@ -1,5 +1,10 @@
 const CALENDAR = "primary";
 const TIME_ZONE = "America/New_York";
+//  America/Los_Angeles
+//  America/Denver
+//  America/Chicago
+//  Europe/London
+//  Europe/Berlin
 const WORKDAYS = [1, 2, 3, 4, 5];
 const WORKHOURS = {
   start: 9,
