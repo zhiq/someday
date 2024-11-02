@@ -20,7 +20,7 @@ Someday is a simple, open-source scheduling tool designed specifically for Gmail
 - **Developer-Friendly**: Built with modern, developer-preferred technologies, Someday is easy to customize and extend to meet your specific needs.
 - **Customizable Work Hours**: Set your availability with precision, allowing others to book time slots that fit your schedule perfectly.
 - **Simple Booking Process**: Users can select a date and time slot, then fill out a straightforward form with their name, email, phone, and an optional note.
-- **Privacy First**: Your data stays with you. Someday respects your privacy and ensures your information is secure.
+- **Privacy First**: No data sharing beyond google to 3rd party apps
 
 ## Getting Started
 
